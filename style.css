@@ -1,0 +1,17 @@
+#container {
+  display: flex;
+  gap: 20px;
+}
+
+#post-list {
+  width: 30%;
+  border-right: 1px solid gray;
+}
+
+#post-detail {
+  width: 60%;
+}
+
+.hidden {
+  display: none;
+}

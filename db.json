@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "content": "Welcome to my blog!",
+      "author": "Claire",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "content": "Today was amazing!",
+      "author": "John",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
