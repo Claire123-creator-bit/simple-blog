@@ -1,18 +1,28 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "First Blog Post",
-      "content": "Welcome to my blog!",
-      "author": "Claire",
-      "image": "https://via.placeholder.com/150"
+      "id": "3",
+      "title": "Exploring the Forest",
+      "content": "I found a hidden waterfall and took a swim.",
+      "author": "Claire"
     },
     {
-      "id": 2,
-      "title": "Second Post",
-      "content": "Today was amazing!",
-      "author": "John",
-      "image": "https://via.placeholder.com/150"
+      "id": "4",
+      "title": "Camping Under the Stars",
+      "content": "We roasted marshmallows and told stories by the campfire.",
+      "author": "Claire"
+    },
+    {
+      "id": "5",
+      "title": "A Trip to the Mountains",
+      "content": "Hiking was tough but the view was worth it!",
+      "author": "Claire"
+    },
+    {
+      "id": "a89f",
+      "title": "Hike",
+      "content": "hiking is fun",
+      "author": "claire"
     }
   ]
 }
